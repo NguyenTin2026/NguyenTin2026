@@ -149,8 +149,24 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎬 GIF / Avatar  
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Coding GIF">
+## 🎬 Coding / AI / Data Science GIFs
+
+<!-- Single GIF Option -->
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="AI / Coding GIF">
+
+<!-- Multiple GIFs in a row (pro style) -->
+<p float="left">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Data Science GIF" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" alt="Machine Learning GIF" />
+</p>
+
+<!-- Optional: Tech + AI flow / futuristic style -->
+<p float="left">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAiWithC/giphy.gif" width="200" alt="AI Brain / Neural Network GIF" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Real-time coding GIF" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Data Analysis GIF" />
+</p>
 
 ---
 
