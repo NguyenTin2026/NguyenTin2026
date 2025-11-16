@@ -149,31 +149,58 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎥 Bộ GIF AI Chuyên Nghiệp
+## 🎬 Bộ GIF AI Siêu Chuyên Nghiệp (20 GIF)
 
 <p float="left">
-  <img src="https://media.giphy.com/media/r5kRgH2xQ4SBcaTWqb/giphy.gif" width="200" alt="Neural Network Animation" />  
-  <img src="https://media.giphy.com/media/ddHep70kmZIlWm6g0l/giphy.gif" width="200" alt="AI Neural Network Pattern" />  
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Machine Learning Algorithm" />  
-  <img src="https://media.giphy.com/media/hHqxSiMeF4NOj3npVc/giphy.gif" width="200" alt="Generative Art Neural Network" />  
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200" alt="Deep Learning Layers" />  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="AI Data Flow" />  
-  <img src="https://media.giphy.com/media/xT0BKja1LmCIBQvJ6A/giphy.gif" width="200" alt="Machine Vision AI" />  
-  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="200" alt="GAN Generative AI" />  
-  <img src="https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="200" alt="Machine Learning Ai" />  
-  <img src="https://media.giphy.com/media/oOsdcZQiODMo8ATMdk/giphy.gif" width="200" alt="Machine Learning AI Loop" />
+  <img src="https://media.giphy.com/media/r5kRgH2xQ4SBcaTWqb/giphy.gif" width="180" alt="Neural Network Animation" />  
+  <img src="https://media.giphy.com/media/ddHep70kmZIlWm6g0l/giphy.gif" width="180" alt="AI Neural Network Pattern" />  
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Machine Learning Algorithm" />  
+  <img src="https://media.giphy.com/media/hHqxSiMeF4NOj3npVc/giphy.gif" width="180" alt="Generative Neural Art" />  
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="180" alt="Deep Learning Layers" />  
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" alt="AI Data Flow" />  
+  <img src="https://media.giphy.com/media/xT0BKja1LmCIBQvJ6A/giphy.gif" width="180" alt="Machine Vision / Computer Vision" />  
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="180" alt="GAN Generative AI" />  
+  <img src="https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="180" alt="ML / AI Symbolic Loop" />  
+  <img src="https://media.giphy.com/media/oOsdcZQiODMo8ATMdk/giphy.gif" width="180" alt="AI Loop Abstract" />  
+
+  <br />
+
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" alt="Neural Net Glow" />  
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="180" alt="AI Brain Digital" />  
+  <img src="https://media.giphy.com/media/xT0BKqhdlKC4Q0jpG0/giphy.gif" width="180" alt="Deep Learning Glow" />  
+  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="180" alt="AI Pulse / Signal" />  
+  <img src="https://media.giphy.com/media/3oEjHPtg3XlBPpfTs4/giphy.gif" width="180" alt="Network Connectivity" />  
+  <img src="https://media.giphy.com/media/3oEjI80DSa1grRBmYI/giphy.gif" width="180" alt="Neural Waves" />  
+  <img src="https://media.giphy.com/media/l0MYxMikrPLSP9dG4/giphy.gif" width="180" alt="Abstract AI Circuit" />  
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="180" alt="AI Digital Brain" />  
+  <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" width="180" alt="AI Data Network" />  
+  <img src="https://media.giphy.com/media/3o6Zt6D85h0FeN2N4c/giphy.gif" width="180" alt="Tech Neural Animation" />
 </p>
 
-- **GIF 1**: Mạng nơ‑ron (Neural Network) trực quan.  
-- **GIF 2**: Kiến trúc neural + AI tổng quát.  
-- **GIF 3**: Thuật toán Machine Learning – dòng dữ liệu ML.  
-- **GIF 4**: Nghệ thuật generative neural network, hình ảnh trừu tượng do AI tạo ra.  
-- **GIF 5**: Các tầng trong mô hình Deep Learning — mô hình mạng sâu.  
-- **GIF 6**: Luồng dữ liệu AI, thể hiện quá trình xử lý thông tin.  
-- **GIF 7**: Machine Vision – AI nhìn, phân tích hình ảnh / video.  
-- **GIF 8**: Mạng GAN (Generative Adversarial Network) – AI sinh ra dữ liệu mới.  
-- **GIF 9**: Biểu tượng Machine Learning (ML) – từ University of Alaska Fairbanks. :contentReference[oaicite:0]{index=0}  
-- **GIF 10**: Một loop ML / AI trừu tượng liên quan tới thuật toán. :contentReference[oaicite:1]{index=1}  
+### 🌐 Giải thích các GIF:
+
+1. Neural Network Animation — Hiển thị các “nơ‑ron” kết nối.  
+2. Mô hình neural + AI tổng thể.  
+3. Thuật toán Machine Learning — dòng dữ liệu / luồng thuật toán.  
+4. Nghệ thuật generative (neural) do AI tạo ra.  
+5. Các lớp trong Deep Learning — kiến trúc mạng nhiều tầng.  
+6. Dòng dữ liệu AI — minh hoạ quá trình xử lý thông tin.  
+7. Machine Vision — AI “nhìn” và phân tích hình ảnh.  
+8. Mạng GAN — tạo dữ liệu mới (ảnh, hình dạng) bằng AI.  
+9. Biểu tượng lặp ML / AI — loop trừu tượng.  
+10. Loop trừu tượng khác — thể hiện AI như một hệ thống liên tục.  
+11. Neural Net phát sáng — mô hình mạng nơ-ron đang hoạt động.  
+12. Não số hóa AI — biểu tượng “AI Brain”.  
+13. Ánh sáng Deep Learning — tượng trưng cho kiến thức / mạng học sâu.  
+14. Tín hiệu AI (pulse) — như dữ liệu hoặc suy nghĩ AI đang “nhấp nháy”.  
+15. Kết nối mạng — nhiều điểm nối, liên kết dữ liệu.  
+16. Sóng nơ-ron — biểu diễn các tín hiệu trong mạng.  
+17. Mạch AI trừu tượng — dạng hình học điện tử.  
+18. Bộ não kỹ thuật số — biểu tượng trí tuệ nhân tạo.  
+19. Mạng dữ liệu AI — nhiều đường truyền dữ liệu.  
+20. Hoạt hình công nghệ neural — mô hình AI đang “chạy”.
+
+---
 
 ---
 
