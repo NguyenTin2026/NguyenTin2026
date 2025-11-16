@@ -149,23 +149,16 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎬 AI & Technology GIFs
-
-<!-- Multiple AI / Tech GIFs in a row -->
-<p float="left">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAiWithC/giphy.gif" width="200" alt="AI Brain / Neural Network GIF" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Machine Learning Algorithm GIF" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Data Visualization / AI GIF" />
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Coding & AI GIF" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Programmer Flow GIF" />
+## 🎬 AI & Technology GIFs  
+<p float="left">  
+  <img src="https://media.giphy.com/media/r5kRgH2xQ4SBcaTWqb/giphy.gif" width="200" alt="Neural Network AI GIF" />  
+  <img src="https://media.giphy.com/media/ddHep70kmZIlWm6g0l/giphy.gif" width="200" alt="Artificial Intelligence Neural Network GIF" />  
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Machine Learning Algorithm GIF" />  
 </p>
 
-### 🔹 GIF ý nghĩa:
-1. **AI Brain / Neural Network** – Mô tả mạng nơ-ron, AI intelligence.  
-2. **Machine Learning Algorithm** – Thuật toán ML chạy animation, thể hiện pipeline học máy.  
-3. **Data Visualization / AI** – Trực quan dữ liệu, phân tích bằng AI.  
-4. **Coding & AI** – Lập trình AI, viết code model real-time.  
-5. **Programmer Flow** – Lập trình viên, môi trường công nghệ, MLOps workflow.  
+- **GIF 1**: Neural‑network animation – biểu diễn các tầng nơ‑ron, rất phù hợp AI / Deep Learning. :contentReference[oaicite:0]{index=0}  
+- **GIF 2**: Neural network + Artificial Intelligence tổng quát từ GIPHY. :contentReference[oaicite:1]{index=1}  
+- **GIF 3**: Biểu tượng algorithm / data flow, thể hiện quy trình ML / Data Science. 
 
 ---
 
@@ -199,4 +192,4 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-*Thank you for visiting! Explore my repos, open issues, or reach out to collaborate! 😊*
+*Thank you for stopping by! Feel free to check out my repos, open issues, or reach out to collaborate 😊*  
