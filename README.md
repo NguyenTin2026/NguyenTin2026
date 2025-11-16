@@ -5,64 +5,65 @@
 ## 📞 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-tin-tin-do)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndo1@drew.edu)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/)  
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/)  
+
 📱 (862) 579‑6543  
-GitHub: [github.com/NguyenTin](https://github.com/NguyenTin)
+GitHub: [github.com/NguyenTin2026](https://github.com/NguyenTin2026)
 
 ---
 
 ## 🚀 Professional Summary  
-Data Scientist chuyên về **MLOps** và tự động hóa workflow ML.  
-- Xây dựng, huấn luyện, và triển khai mô hình ML end‑to‑end bằng **Python, TensorFlow, Scikit‑learn**  
+Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.  
+- Xây dựng, huấn luyện & triển khai ML models end‑to‑end với **Python, TensorFlow, Scikit‑learn**  
 - Tiền xử lý dữ liệu, tối ưu hóa mô hình, đo lường hiệu năng  
-- Triển khai các giải pháp có thể scale sử dụng **Docker**, **FastAPI** và nền tảng đám mây (GCP, Azure)  
-- Đam mê tạo ra hệ thống AI tin cậy, sản xuất thực tế, ứng dụng trong doanh nghiệp
+- Triển khai giải pháp scale với **Docker, FastAPI, Cloud Platforms (GCP, Azure)**  
+- Đam mê tạo hệ thống AI tin cậy, sản xuất thực tế, ứng dụng trong doanh nghiệp
 
 ---
 
 ## 🎓 Education  
-**Drew University** — Madison, New Jersey  
+**Drew University** — Madison, NJ  
 - B.S. Computer Science, Minor Data Science — GPA: **3.7 / 4.0**  
-- Dự kiến tốt nghiệp: **May 2027**  
-- Học bổng Merit $15,000 (Fall 2025 – Spring 2026)  
-- Những môn học quan trọng: **Artificial Intelligence**, **Data Science**, **Database Systems**
+- Dự kiến tốt nghiệp: May 2027  
+- Merit Scholarship $15,000 (Fall 2025 – Spring 2026)  
+- Key Courses: Artificial Intelligence, Data Science, Database Systems
 
 ---
 
 ## 💻 Projects
 
-> Dưới đây là một số project nổi bật bạn đã làm — nếu bạn có tên repo GitHub cụ thể, mình có thể tạo các *cards* liên kết tới repo luôn.
-
 ### 🔍 Face Recognition System  
-- **Thời gian**: August 2025 – October 2025  
-- Xây dựng hệ thống nhận diện khuôn mặt thời gian thực bằng **OpenCV** và Haar Cascade, đạt **>95% độ chính xác** trên dataset tự thu thập  
-- Hỗ trợ input từ **webcam**, ảnh tĩnh và video  
-- Tối ưu hóa xử lý từng khung hình, giảm latency ~ 25% sau khi tune mô hình  
+- **Aug 2025 – Oct 2025**  
+- Real-time face detection & recognition using **OpenCV + Haar Cascade**, >95% accuracy  
+- Webcam + image + video input, optimized processing (~25% latency reduction)
 
 ### 🌐 API Testing & Backend  
-- **Thời gian**: August 2024 – September 2024  
-- Viết API bằng **FastAPI**, test với **Postman**  
-- Sử dụng Git, GitHub, Bitbucket để quản lý mã nguồn và phiên bản  
+- **Aug 2024 – Sep 2024**  
+- Built APIs with **FastAPI**, tested with **Postman**  
+- Source control via **Git, GitHub, Bitbucket**
 
 ### 📊 Data Analysis & Visualization  
-- **Thời gian**: June 2023 – February 2024  
-- Phân tích dữ liệu bằng **Pandas, NumPy, Matplotlib**  
-- Sử dụng **PostgreSQL** để truy vấn và xử lý dữ liệu  
-- Dự đoán tỉ lệ sống sót trên Titanic bằng **Logistic Regression** và **Random Forest**, độ chính xác ~ 85%
+- **Jun 2023 – Feb 2024**  
+- Analysis with **Pandas, NumPy, Matplotlib**, queried with **PostgreSQL**  
+- Titanic survival prediction (~85% accuracy) using **Logistic Regression & Random Forest**
 
 ### 🎯 Object Detection (Freelance)  
-- **Thời gian**: từ August 2025 (hiện tại)  
-- Xây dựng hệ thống phát hiện đối tượng thời gian thực bằng **YOLOv5** + **OpenCV**  
-- Làm sạch, trực quan hóa dữ liệu bằng Pandas, Seaborn, Matplotlib  
+- **Aug 2025 – Present**  
+- YOLOv5 + OpenCV real-time object detection  
+- Data cleaning & visualization with **Pandas, Seaborn, Matplotlib**
 
 ---
 
 ## 🌟 Leadership & Activities  
 - **Founder & Volunteer English Instructor** (May 2023 – May 2025)  
-  - Khởi tạo hai nền tảng học tiếng Anh miễn phí trên Facebook (“English Free By Mr. TinTin”, “English Guidance for Beginners”) — hơn **900+ người theo dõi**  
-  - Dạy phát âm, ngữ pháp, toán cơ bản, tổ chức các buổi học trực tuyến tuần  
-- **Social Media Content Creator** (Freelance, Jan 2021 – May 2025)  
-  - Quản lý TikTok (22K followers, 2M+ views), Instagram (12K followers), Facebook (18K followers)  
-  - Tạo & chỉnh sửa video, hình ảnh để tăng tương tác; kéo dài thời gian xem trung bình lên +25%
+  - Created 2 free English platforms on Facebook, 900+ followers  
+  - Tutoring English & Math, mentoring weekly  
+- **Social Media Content Creator** (Jan 2021 – May 2025)  
+  - Managed TikTok (22K followers, 2M+ views), Instagram, Facebook  
+  - Produced multimedia content, increased average view duration +25%
 
 ---
 
@@ -73,7 +74,7 @@ Data Scientist chuyên về **MLOps** và tự động hóa workflow ML.
 | **Programming & Data Science** | Python, R, Java, C++, TypeScript, JavaScript, HTML, CSS, SQL (PostgreSQL) |
 | **Libraries / Frameworks** | NumPy, Pandas, SciPy, Matplotlib, Seaborn, TensorFlow, Scikit‑learn, PyTorch, Keras, OpenCV, YOLO, Streamlit |
 | **DevOps & Deployment** | Docker, FastAPI, Git, GitHub, GitLab, Bitbucket |
-| **Cloud Platforms** | Google Cloud Platform (GCP), Microsoft Azure |
+| **Cloud Platforms** | GCP, Azure |
 | **Environments** | Jupyter Notebook, VS Code, Anaconda, Google Colab, PyCharm, Sublime Text, Kaggle |
 
 ---
@@ -106,38 +107,30 @@ Data Scientist chuyên về **MLOps** và tự động hóa workflow ML.
 
 ---
 
-## 🔗 Quick Links / More  
-- [My LinkedIn](https://linkedin.com/in/nguyen-tin-tin-do)  
-- [Email Me](mailto:ndo1@drew.edu)  
-- [My Resume / CV](#) *(bạn có thể thêm link Google Docs hoặc PDF)*  
-
----
-
 ## 🔝 Featured Projects  
-Dưới đây là những project nổi bật nhất, thể hiện kỹ năng **ML**, **MLOps**, **AI** và **data science**:
 
-| Project | Description |
-|---|---|
-| **Face Recognition** | Hệ thống nhận diện khuôn mặt thời gian thực (webcam / video / ảnh) sử dụng OpenCV & Haar Cascade. |
-| **API Testing & Backend** | Xây dựng REST API bằng FastAPI, test với Postman, quản lý source code bằng Git. |
-| **Data Analysis / Titanic** | Phân tích dữ liệu Titanic, feature engineering, logistic regression và random forest để dự đoán tỷ lệ sống sót (~ 85% accuracy). |
-| **Object Detection (YOLOv5)** | Hệ thống phát hiện đối tượng thời gian thực với YOLOv5 + OpenCV, triển khai models và xử lý dữ liệu sạch. |
+| Project | Description | Demo / Repo |
+|---|---|---|
+| **Face Recognition** | Real-time face detection + recognition using OpenCV & Haar Cascade | [Repo](#) |
+| **API Testing & Backend** | REST API using FastAPI, version control via Git | [Repo](#) |
+| **Data Analysis / Titanic** | Feature engineering, logistic regression, random forest (~85% accuracy) | [Repo](#) |
+| **Object Detection (YOLOv5)** | Real-time object detection with YOLOv5 + OpenCV | [Repo](#) |
 
 ---
 
 ## 📚 Learning & Future Goals  
-- 🔭 Hiện đang học **LangChain**, **MediaChain**, và các công nghệ MLOps nâng cao  
-- 🌱 Muốn mở rộng kiến thức về **Generative AI** + **Web3 / Blockchain AI**  
-- 👯 Tìm cơ hội hợp tác về **AI sản xuất**, **AI automations**, dự án open-source  
-- 💡 Kế hoạch: viết bài blog kỹ thuật (trên Medium / Dev.to), chia sẻ kiến thức MLOps
+- 🔭 Currently learning **LangChain**, **MediaChain**, advanced **MLOps**  
+- 🌱 Expanding into **Generative AI**, **Web3 / Blockchain AI**  
+- 👯 Open to collaboration on AI automation, production AI, open-source projects  
+- 💡 Plan to blog technical tutorials on Medium / Dev.to
 
 ---
 
 ## ✅ Why Connect With Me  
-- Tôi có kinh nghiệm thực tế từ project nghiên cứu + deploy ML  
-- Tôi năng động sáng tạo, có kỹ năng content (video, social media) + kỹ thuật  
-- Tôi luôn sẵn sàng hợp tác, mentor, hoặc cùng phát triển project AI / Data Science / Web3  
+- Real-world ML project experience, deployed solutions  
+- Creative & technical skills: content creation + coding  
+- Always ready to collaborate, mentor, or co-develop AI/Data Science/Web3 projects  
 
 ---
 
-*Thank you for stopping by! Feel free to browse my repos, open issues, or reach out if you want to collaborate 😊*
+*Thank you for visiting! Explore my repos, open issues, or reach out to collaborate 😊*
