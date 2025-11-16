@@ -149,7 +149,7 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎬 Bộ GIF AI Siêu Chuyên Nghiệp (20 GIF)
+## 🎬 Gif Artificial Intelligence
 
 <p float="left">
   <img src="https://media.giphy.com/media/r5kRgH2xQ4SBcaTWqb/giphy.gif" width="180" alt="Neural Network Animation" />  
@@ -161,20 +161,7 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
   <img src="https://media.giphy.com/media/xT0BKja1LmCIBQvJ6A/giphy.gif" width="180" alt="Machine Vision / Computer Vision" />  
   <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="180" alt="GAN Generative AI" />  
   <img src="https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="180" alt="ML / AI Symbolic Loop" />  
-  <img src="https://media.giphy.com/media/oOsdcZQiODMo8ATMdk/giphy.gif" width="180" alt="AI Loop Abstract" />  
-
-  <br />
-
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" alt="Neural Net Glow" />  
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="180" alt="AI Brain Digital" />  
-  <img src="https://media.giphy.com/media/xT0BKqhdlKC4Q0jpG0/giphy.gif" width="180" alt="Deep Learning Glow" />  
-  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="180" alt="AI Pulse / Signal" />  
-  <img src="https://media.giphy.com/media/3oEjHPtg3XlBPpfTs4/giphy.gif" width="180" alt="Network Connectivity" />  
-  <img src="https://media.giphy.com/media/3oEjI80DSa1grRBmYI/giphy.gif" width="180" alt="Neural Waves" />  
-  <img src="https://media.giphy.com/media/l0MYxMikrPLSP9dG4/giphy.gif" width="180" alt="Abstract AI Circuit" />  
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="180" alt="AI Digital Brain" />  
-  <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" width="180" alt="AI Data Network" />  
-  <img src="https://media.giphy.com/media/3o6Zt6D85h0FeN2N4c/giphy.gif" width="180" alt="Tech Neural Animation" />
+  <img src="https://media.giphy.com/media/oOsdcZQiODMo8ATMdk/giphy.gif" width="180" alt="AI Loop Abstract" /> 
 </p>
 
 ### 🌐 Giải thích các GIF:
@@ -189,18 +176,6 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 8. Mạng GAN — tạo dữ liệu mới (ảnh, hình dạng) bằng AI.  
 9. Biểu tượng lặp ML / AI — loop trừu tượng.  
 10. Loop trừu tượng khác — thể hiện AI như một hệ thống liên tục.  
-11. Neural Net phát sáng — mô hình mạng nơ-ron đang hoạt động.  
-12. Não số hóa AI — biểu tượng “AI Brain”.  
-13. Ánh sáng Deep Learning — tượng trưng cho kiến thức / mạng học sâu.  
-14. Tín hiệu AI (pulse) — như dữ liệu hoặc suy nghĩ AI đang “nhấp nháy”.  
-15. Kết nối mạng — nhiều điểm nối, liên kết dữ liệu.  
-16. Sóng nơ-ron — biểu diễn các tín hiệu trong mạng.  
-17. Mạch AI trừu tượng — dạng hình học điện tử.  
-18. Bộ não kỹ thuật số — biểu tượng trí tuệ nhân tạo.  
-19. Mạng dữ liệu AI — nhiều đường truyền dữ liệu.  
-20. Hoạt hình công nghệ neural — mô hình AI đang “chạy”.
-
----
 
 ---
 
