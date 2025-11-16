@@ -149,24 +149,23 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎬 Coding / AI / Data Science GIFs
+## 🎬 AI & Technology GIFs
 
-<!-- Single GIF Option -->
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="AI / Coding GIF">
-
-<!-- Multiple GIFs in a row (pro style) -->
-<p float="left">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Coding GIF" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Data Science GIF" />
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200" alt="Machine Learning GIF" />
-</p>
-
-<!-- Optional: Tech + AI flow / futuristic style -->
+<!-- Multiple AI / Tech GIFs in a row -->
 <p float="left">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAiWithC/giphy.gif" width="200" alt="AI Brain / Neural Network GIF" />
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Real-time coding GIF" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Data Analysis GIF" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Machine Learning Algorithm GIF" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="Data Visualization / AI GIF" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Coding & AI GIF" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Programmer Flow GIF" />
 </p>
+
+### 🔹 GIF ý nghĩa:
+1. **AI Brain / Neural Network** – Mô tả mạng nơ-ron, AI intelligence.  
+2. **Machine Learning Algorithm** – Thuật toán ML chạy animation, thể hiện pipeline học máy.  
+3. **Data Visualization / AI** – Trực quan dữ liệu, phân tích bằng AI.  
+4. **Coding & AI** – Lập trình AI, viết code model real-time.  
+5. **Programmer Flow** – Lập trình viên, môi trường công nghệ, MLOps workflow.  
 
 ---
 
