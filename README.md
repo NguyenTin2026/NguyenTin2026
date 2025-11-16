@@ -149,36 +149,6 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎬 Gif Artificial Intelligence
-
-<p float="left">
-  <img src="https://media.giphy.com/media/r5kRgH2xQ4SBcaTWqb/giphy.gif" width="180" alt="Neural Network Animation" />  
-  <img src="https://media.giphy.com/media/ddHep70kmZIlWm6g0l/giphy.gif" width="180" alt="AI Neural Network Pattern" />  
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Machine Learning Algorithm" />  
-  <img src="https://media.giphy.com/media/hHqxSiMeF4NOj3npVc/giphy.gif" width="180" alt="Generative Neural Art" />  
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="180" alt="Deep Learning Layers" />  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" alt="AI Data Flow" />  
-  <img src="https://media.giphy.com/media/xT0BKja1LmCIBQvJ6A/giphy.gif" width="180" alt="Machine Vision / Computer Vision" />  
-  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="180" alt="GAN Generative AI" />  
-  <img src="https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="180" alt="ML / AI Symbolic Loop" />  
-  <img src="https://media.giphy.com/media/oOsdcZQiODMo8ATMdk/giphy.gif" width="180" alt="AI Loop Abstract" /> 
-</p>
-
-### 🌐 Giải thích các GIF:
-
-1. Neural Network Animation — Hiển thị các “nơ‑ron” kết nối.  
-2. Mô hình neural + AI tổng thể.  
-3. Thuật toán Machine Learning — dòng dữ liệu / luồng thuật toán.  
-4. Nghệ thuật generative (neural) do AI tạo ra.  
-5. Các lớp trong Deep Learning — kiến trúc mạng nhiều tầng.  
-6. Dòng dữ liệu AI — minh hoạ quá trình xử lý thông tin.  
-7. Machine Vision — AI “nhìn” và phân tích hình ảnh.  
-8. Mạng GAN — tạo dữ liệu mới (ảnh, hình dạng) bằng AI.  
-9. Biểu tượng lặp ML / AI — loop trừu tượng.  
-10. Loop trừu tượng khác — thể hiện AI như một hệ thống liên tục.  
-
----
-
 ## 👨‍💻 Visitor Count  
 
 ---
