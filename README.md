@@ -149,9 +149,9 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-## 🎬 AI & Technology GIFs  
+## 🎥 Bộ GIF AI Chuyên Nghiệp
 
-<p float="left">  
+<p float="left">
   <img src="https://media.giphy.com/media/r5kRgH2xQ4SBcaTWqb/giphy.gif" width="200" alt="Neural Network Animation" />  
   <img src="https://media.giphy.com/media/ddHep70kmZIlWm6g0l/giphy.gif" width="200" alt="AI Neural Network Pattern" />  
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Machine Learning Algorithm" />  
@@ -160,16 +160,20 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="AI Data Flow" />  
   <img src="https://media.giphy.com/media/xT0BKja1LmCIBQvJ6A/giphy.gif" width="200" alt="Machine Vision AI" />  
   <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="200" alt="GAN Generative AI" />  
+  <img src="https://media.giphy.com/media/5dYeglPmPC5lL7xYhs/giphy.gif" width="200" alt="Machine Learning Ai" />  
+  <img src="https://media.giphy.com/media/oOsdcZQiODMo8ATMdk/giphy.gif" width="200" alt="Machine Learning AI Loop" />
 </p>
 
-- **GIF 1**: Hoạt hình mạng neural — biểu thị các tầng nơ‑ron, rất phù hợp cho Deep Learning / Neural Network.  
-- **GIF 2**: Mạng nơ‑ron + AI tổng quát, thể hiện sự phức tạp và kết nối. :contentReference[oaicite:0]{index=0}  
-- **GIF 3**: Biểu tượng luồng dữ liệu / thuật toán Machine Learning.  
-- **GIF 4**: Nghệ thuật generative, neural network tạo nên các hình dạng trừu tượng. :contentReference[oaicite:1]{index=1}  
-- **GIF 5**: Các lớp trong deep learning — hiển thị kiến trúc mạng sâu.  
-- **GIF 6**: Luồng dữ liệu AI, thể hiện cách thông tin di chuyển qua hệ thống.  
-- **GIF 7**: Ví dụ “machine vision” — AI xử lý hình ảnh / video. :contentReference[oaicite:2]{index=2}  
-- **GIF 8**: Mô hình GAN (Generative Adversarial Network) — AI sinh ảnh / nội dung.  
+- **GIF 1**: Mạng nơ‑ron (Neural Network) trực quan.  
+- **GIF 2**: Kiến trúc neural + AI tổng quát.  
+- **GIF 3**: Thuật toán Machine Learning – dòng dữ liệu ML.  
+- **GIF 4**: Nghệ thuật generative neural network, hình ảnh trừu tượng do AI tạo ra.  
+- **GIF 5**: Các tầng trong mô hình Deep Learning — mô hình mạng sâu.  
+- **GIF 6**: Luồng dữ liệu AI, thể hiện quá trình xử lý thông tin.  
+- **GIF 7**: Machine Vision – AI nhìn, phân tích hình ảnh / video.  
+- **GIF 8**: Mạng GAN (Generative Adversarial Network) – AI sinh ra dữ liệu mới.  
+- **GIF 9**: Biểu tượng Machine Learning (ML) – từ University of Alaska Fairbanks. :contentReference[oaicite:0]{index=0}  
+- **GIF 10**: Một loop ML / AI trừu tượng liên quan tới thuật toán. :contentReference[oaicite:1]{index=1}  
 
 ---
 
