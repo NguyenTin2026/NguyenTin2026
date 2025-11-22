@@ -124,6 +124,7 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 - **Aug 2024 – Sep 2024**  
 - Built APIs with **FastAPI**, tested with **Postman**  
 - Source control via **Git, GitHub, Bitbucket**
+- - **Bitbucket:** https://bitbucket.org/tintin_2026/workspace/overview/
 
 ### 📊 Data Analysis & Visualization  
 - **Jun 2023 – Feb 2024**  
