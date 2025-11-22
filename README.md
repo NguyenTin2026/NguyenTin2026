@@ -91,10 +91,8 @@
 📱 Phone: (862) 579‑6543  
 
 ### 🌟 Portfolio / Resume  
-[![Portfolio](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git)](#)  
-[![Resume](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git)](#)  
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin)
 
 ## 🚀 Professional Summary  
 Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.  
@@ -110,7 +108,7 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 - B.S. Computer Science, Minor Data Science — GPA: **3.7 / 4.0**  
 - Dự kiến tốt nghiệp: May 2027  
 - Merit Scholarship $15,000 (Fall 2025 – Spring 2026)  
-- Key Courses: Artificial Intelligence, Data Science, Database Systems
+- Key Courses: Artificial Intelligence, Data Science, Software Engineering, Database System and Management
 
 ---
 
@@ -135,6 +133,22 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 - **Aug 2025 – Present**  
 - YOLOv5 + OpenCV real-time object detection  
 - Data cleaning & visualization with **Pandas, Seaborn, Matplotlib**
+
+### 🖥️ Streamlit Web App – Curriculum Vitae Builder (Freelancer Project)  
+- **Oct 2025 – Present**  
+- Built a full **Streamlit Web Application** for generating and viewing Curriculum Vitae (CV)  
+- Developed using **Python** and multiple Python libraries  
+- Deployed successfully on **Streamlit Cloud**  
+- Public users can access and interact with all CV features  
+- **Live App:** https://app-tutorial-buiding-cv-tintin.streamlit.app/
+### 🚢 Titanic Survival Prediction – Data Analysis & ML Project (Freelancer)  
+- **Oct 2025 – Present**  
+- Applied data cleaning and preprocessing to handle missing values and outliers  
+- Engineered meaningful features (e.g., family size, title extraction) to improve model performance  
+- Built and evaluated machine learning models including **Logistic Regression** and **Random Forest**  
+- Achieved **~85% prediction accuracy** on test data, demonstrating effective survival prediction  
+- Visualized dataset insights using **Pandas, Matplotlib, Seaborn** for data-driven interpretation  
+- **LinkedIn:** https://www.linkedin.com/in/nguyen-tin-tin-do/
 
 ---
 
