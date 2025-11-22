@@ -39,7 +39,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@tintindo)
@@ -85,15 +85,14 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)](https://linode.com/)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
-[![Railway](https://img.shields.i/badge/Railway-141414?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 
 ### 📧 Contact Info  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndo1@drew.edu)  
 📱 Phone: (862) 579‑6543  
 
 ### 🌟 Portfolio / Resume  
-[![Portfolio](file:///C:/Users/Microsoft/Downloads/Resume%20-%20Mr.%20Tin%20Tin%20(1).pdf)](#)  
-[![Resume](file:///C:/Users/Microsoft/Downloads/Resume%20-%20Mr.%20Tin%20Tin%20(1).pdf)](#)  
+[![Portfolio](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git)](#)  
+[![Resume](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git)](#)  
 
 
 
@@ -237,4 +236,4 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 
 ---
 
-*Thank you for stopping by! Feel free to check out my repos, open issues, or reach out to collaborate 😊*  
+*Thank you for stopping by! Feel free to check out my repos, open issues, or reach out to collaborate!!! 😊*  
