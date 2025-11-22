@@ -118,19 +118,19 @@ Data Scientist chuyên về **MLOps** & tự động hóa workflow ML.
 - **Aug 2025 – Oct 2025**  
 - Real-time face detection & recognition using **OpenCV + Haar Cascade**, >95% accuracy  
 - Webcam + image + video input, optimized processing (~25% latency reduction)
-- - **Github:** https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git
+- **Github:** https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git
 
 ### 🌐 API Testing & Backend  
 - **Aug 2024 – Sep 2024**  
 - Built APIs with **FastAPI**, tested with **Postman**  
 - Source control via **Git, GitHub, Bitbucket**
-- - **Bitbucket:** https://bitbucket.org/tintin_2026/workspace/overview/
+- **Bitbucket:** https://bitbucket.org/tintin_2026/workspace/overview/
 
 ### 📊 Data Analysis & Visualization  
 - **Jun 2023 – Feb 2024**  
 - Analysis with **Pandas, NumPy, Matplotlib**, queried with **PostgreSQL**  
 - Titanic survival prediction (~85% accuracy) using **Logistic Regression & Random Forest**
-- - **Github:** https://github.com/NguyenTin2026/Data-Science-Tutorial-Step-By-Step-.git
+- **Github:** https://github.com/NguyenTin2026/Data-Science-Tutorial-Step-By-Step-.git
 
 ### 🎯 Object Detection (Freelance)  
 - **Aug 2025 – Present**  
