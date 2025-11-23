@@ -305,17 +305,13 @@
 ---
 
 ## 👨‍💻 Visitor Count
+## 👨‍💻 Visitor Count
 
 <p align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="Visitor Badge" style="margin-right:8px;" />
-
-  <!-- Flag / Country -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_the_United_States.svg" alt="Country Flag" width="20" style="margin-right:8px;" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" alt="GitHub Streak" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" />
 </p>
+
 
 
 ## 🔝 Featured Projects  
