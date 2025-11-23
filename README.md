@@ -98,7 +98,7 @@
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin)
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=700&lines=👋+Hello+I'm+Nguyen+Tin+Tin+Do;AI+%7C+ML+%7C+DL+LLMs+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=700&lines=👋+Hello+I'm+Nguyen+Tin+Tin+Do;AI+%7C+ML+%7C+DL+%7C+LLMs+%7C+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <!--   my-header-img -->
@@ -122,19 +122,19 @@
 ---
 ## 🚀 Professional Summary  
 - 🎓 AI & Machine Learning student  
-- 🤖 Focus: **Computer Vision, Machine Learning, Deep Learning, Large Language Model**  
+- 🤖 Focus: **Computer Vision, Machine Learning, Deep Learning, Large Language Models**  
 - 💾 Love building: AI agents, automation tools, penetration-testing tools  
 - 🌎 Based in Madison, New Jersey, USA  
-- 📚 Always learning, always improving, and experimenting  
+- 📚 Always learning, improving, and experimenting  
 
 ---
 
 ## 🎓 Education  
 **Drew University** — Madison, NJ  
 - B.S. Computer Science, Minor Data Science — GPA: **3.7 / 4.0**  
-- Dự kiến tốt nghiệp: May 2027  
+- Expected Graduation: May 2027  
 - Merit Scholarship $15,000 (Fall 2025 – Spring 2026)  
-- Key Courses: Artificial Intelligence, Data Science, Software Engineering, Database System and Management
+- Key Courses: Artificial Intelligence, Data Science, Software Engineering, Database Systems and Management
 
 ---
 
@@ -142,17 +142,36 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,js,r,cpp,java,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,java, c++,javaScript,html,css,sql(postgresql)" />
 </p>
 
-### **AI / Machine Learning**
+### **Libraries & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <!-- Core Scientific Python -->
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
+
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4E709D?logo=python&logoColor=white" />
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+
+  <!-- Computer Vision -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=github&logoColor=black" />
+
+  <!-- App / Deployment -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 </p>
+
 
 ### **Cybersecurity**
 <p>
@@ -165,11 +184,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,docker,postman,vscode,pycharm,figma" />
 </p>
-# 🐍 **Contribution Snake**
+# 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
+
 ## 💻 Projects
 
 ### 🔍 Face Recognition System  
@@ -277,13 +296,22 @@
 
 ## 📊 GitHub Statistics & Activity  
 [![NguyenTin GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenTin2026&show_icons=true&theme=radical)]([https://github.com/NguyenTin2026](https://github.com/NguyenTin2026/NguyenTin2026.git))  
-[![NguyenTin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical)]([https://github.com/NguyenTin2026](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git))  
+[![NguyenTin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical)](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git)  
 [![NguyenTin Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTin2026&layout=compact)](https://github.com/NguyenTin2026)
 
 ---
 
-## 👨‍💻 Visitor Count  
+## 👨‍💻 Visitor Count
 
+![](https://count.getloli.com/get/@NguyenTin2026)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="visitor badge"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="http://s01.flagcounter.com/more/yourcode">
+<img src="https://s01.flagcounter.com/countxl/yourcode/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" />
+</a>
+![](https://count.getloli.com/get/@NguyenTin2026)
+
+![](https://komarev.com/ghpvc/?username=NguyenTin2026&color=blueviolet&style=flat)
 ---
 
 ## 🔝 Featured Projects  
@@ -312,4 +340,4 @@
 
 ---
 
-*Thank you for stopping by! Feel free to check out my repos, open issues, or reach out to collaborate!!! 😊*  
+*Thank you for stopping by! Feel free to check out my repos, open issues, or reach out to collaborate! 😊*  
