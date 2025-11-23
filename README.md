@@ -88,6 +88,9 @@
 
 ### 📧 Contact Info  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndo1@drew.edu)  
+<p align="left">
+<a href="https://twitter.com/tintindo.2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="TinTin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nguyen-tin-tin-do/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="TinTin" height="30" width="30" /></a>
 📱 Phone: (862) 579‑6543  
 
 ### 🌟 Portfolio / Resume  
@@ -98,9 +101,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=700&lines=👋+Hello+I'm+Nguyen+Tin+Tin+Do;AI+%7C+Machine+Learning+%7C+DeepLearning+LargeLanguageModel+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/IOZ5FjK.gif" width="65%">
-</p>
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
@@ -160,7 +163,7 @@
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,pycharm,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,docker,postman,vscode,pycharm,figma" />
 </p>
 # 🐍 **Contribution Snake**
 <p align="center">
