@@ -305,19 +305,21 @@
 ---
 
 ## 👨‍💻 Visitor Count
+<!-- Visitor Badge -->
+<a href="https://github.com/NguyenTin2026">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="" style="display:block; margin-bottom:10px;">
+</a>
 
-<p align="center">
+<!-- GitHub Streak -->
+<a href="https://github.com/NguyenTin2026">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" alt="" style="display:block; margin-bottom:10px;">
+</a>
 
-<!-- GitHub profile views -->
-<img src="https://komarev.com/ghpvc/?username=NguyenTin2026&color=blueviolet&style=flat" alt="Profile Views" />
+<!-- Total Hits -->
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="" style="display:block; margin-bottom:10px;">
+</a>
 
-<!-- Visitor badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="Visitor Badge"/>
-
-<!-- Hit counter -->
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</p>
 
 <!-- Flag counter -->
 <a href="http://s01.flagcounter.com/more/NguyenTin2026">
