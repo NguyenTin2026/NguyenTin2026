@@ -98,7 +98,7 @@
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin)
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=700&lines=👋+Hello+I'm+Nguyen+Tin+Tin+Do;AI+%7C+MachineLearning+%7C+DeepLearning+LargeLanguageModel+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=700&lines=👋+Hello+I'm+Nguyen+Tin+Tin+Do;AI+%7C+ML+%7C+DL+LLMs+Enthusiast;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <!--   my-header-img -->
