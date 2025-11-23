@@ -305,7 +305,6 @@
 ---
 
 ## 👨‍💻 Visitor Count
-## 👨‍💻 Visitor Count
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" />
