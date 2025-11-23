@@ -142,8 +142,9 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java, c++,javaScript,html,css,sql(postgresql)" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,javascript,html,css,postgres" />
 </p>
+
 
 ### **Libraries & Tools**
 <p>
@@ -184,7 +185,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,linux,docker,postman,vscode,pycharm,figma" />
 </p>
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -296,23 +297,31 @@
 
 ## 📊 GitHub Statistics & Activity  
 [![NguyenTin GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenTin2026&show_icons=true&theme=radical)]([https://github.com/NguyenTin2026](https://github.com/NguyenTin2026/NguyenTin2026.git))  
-[![NguyenTin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical)](https://github.com/NguyenTin2026/Curriculum-Vitae---Mr.-Tin-Tin.git)  
+[![NguyenTin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical)](https://github.com/NguyenTin2026)  
 [![NguyenTin Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTin2026&layout=compact)](https://github.com/NguyenTin2026)
 
 ---
 
 ## 👨‍💻 Visitor Count
 
-![](https://count.getloli.com/get/@NguyenTin2026)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="visitor badge"/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="http://s01.flagcounter.com/more/yourcode">
-<img src="https://s01.flagcounter.com/countxl/yourcode/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" />
-</a>
-![](https://count.getloli.com/get/@NguyenTin2026)
+## 👨‍💻 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=NguyenTin2026&color=blueviolet&style=flat)
----
+<p align="center">
+
+<!-- GitHub profile views -->
+<img src="https://komarev.com/ghpvc/?username=NguyenTin2026&color=blueviolet&style=flat" alt="Profile Views" />
+
+<!-- Visitor badge -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="Visitor Badge" />
+
+<!-- Hit counter -->
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- Flag counter -->
+<a href="http://s01.flagcounter.com/more/NguyenTin2026">
+<img src="https://s01.flagcounter.com/countxl/NguyenTin2026/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags=50/viewers=0/labels=1/pageviews=1/flags=0/percent=0/" alt="Flag Counter"/>
+</a>
+</p>
 
 ## 🔝 Featured Projects  
 
