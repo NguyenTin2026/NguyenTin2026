@@ -297,12 +297,12 @@
 
 ## 📊 GitHub Statistics & Activity  
 [![NguyenTin GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenTin2026&show_icons=true&theme=radical)]([https://github.com/NguyenTin2026](https://github.com/NguyenTin2026/NguyenTin2026.git))  
-[![NguyenTin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical)](https://github.com/NguyenTin2026)  
+<a href="https://github.com/NguyenTin2026">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" alt="" style="display:block;">
+</a>
 [![NguyenTin Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTin2026&layout=compact)](https://github.com/NguyenTin2026)
 
 ---
-
-## 👨‍💻 Visitor Count
 
 ## 👨‍💻 Visitor Count
 
@@ -312,10 +312,12 @@
 <img src="https://komarev.com/ghpvc/?username=NguyenTin2026&color=blueviolet&style=flat" alt="Profile Views" />
 
 <!-- Visitor badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="Visitor Badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="Visitor Badge"/>
 
 <!-- Hit counter -->
 [![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</p>
 
 <!-- Flag counter -->
 <a href="http://s01.flagcounter.com/more/NguyenTin2026">
