@@ -306,28 +306,17 @@
 
 ## 👨‍💻 Visitor Count
 
-<!-- Visitor Badge -->
-<a href="https://github.com/NguyenTin2026">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="" style="display:block; margin-bottom:10px;">
-</a>
+<p align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NguyenTin2026" alt="Visitor Badge" style="margin-right:8px;" />
 
-<!-- GitHub Streak -->
-<a href="https://github.com/NguyenTin2026">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" alt="" style="display:block; margin-bottom:10px;">
-</a>
+  <!-- Flag / Country -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_the_United_States.svg" alt="Country Flag" width="20" style="margin-right:8px;" />
 
-<!-- Total Hits -->
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NguyenTin2026&count_bg=%23FF4DD2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="" style="display:block; margin-bottom:10px;">
-</a>
-
-
-
-<!-- Flag counter -->
-<a href="http://s01.flagcounter.com/more/NguyenTin2026">
-<img src="https://s01.flagcounter.com/countxl/NguyenTin2026/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags=50/viewers=0/labels=1/pageviews=1/flags=0/percent=0/" alt="Flag Counter"/>
-</a>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ## 🔝 Featured Projects  
 
