@@ -296,7 +296,9 @@
 ---
 
 ## 📊 GitHub Statistics & Activity  
-[![NguyenTin GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenTin2026&show_icons=true&theme=radical)]([https://github.com/NguyenTin2026](https://github.com/NguyenTin2026/NguyenTin2026.git))  
+[![NguyenTin GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenTin2026&show_icons=true&theme=radical)](https://github.com/NguyenTin2026)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTin2026&layout=compact&theme=radical)](https://github.com/NguyenTin2026)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenTin2026&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/NguyenTin2026/YOUR_REPO_NAME)
 <a href="https://github.com/NguyenTin2026">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTin2026&theme=radical" alt="" style="display:block;">
 </a>
