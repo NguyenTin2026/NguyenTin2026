@@ -192,6 +192,17 @@
 
 ## 💻 Projects
 
+### 🚀 Portfolio Website with AI Chatbox (MCP + NLWeb)
+
+* **Jan 2025 – Present**
+* Built and deployed a **responsive multi-page portfolio website** using **HTML, CSS, and JavaScript**
+* Integrated an **AI-powered interactive Chatbox** to help visitors explore my background and projects via natural language
+* Implemented **MCP (Model Context Protocol)** for structured context passing and controlled AI responses
+* Applied **NLWeb protocol** to expose website content as machine-readable knowledge for dynamic retrieval and reasoning
+* Managed project data through **structured JSON schemas**, enabling easy updates and scalability
+* **GitHub:** [https://github.com/NguyenTin2026/NguyenTin2026](https://github.com/NguyenTin2026/NguyenTin2026)
+
+
 ### 🔍 Face Recognition System  
 - **Aug 2025 – Oct 2025**  
 - Real-time face detection & recognition using **OpenCV + Haar Cascade**, >95% accuracy  
