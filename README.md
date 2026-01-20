@@ -328,10 +328,12 @@
 
 | Project | Description | Demo / Repo |
 |---|---|---|
+| **Portfolio Website with AI Chatbox (MCP + NLWeb)** | Built and deployed a responsive multi-page portfolio using HTML/CSS/JS, integrating an AI chatbox with MCP and NLWeb for structured context passing and machine-readable content retrieval, with scalable JSON-based data management | [Repo]([#](https://github.com/NguyenTin2026/NguyenTin2026)) |
 | **Face Recognition** | Real-time face detection + recognition using OpenCV & Haar Cascade | [Repo]([#](https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git)) |
 | **API Testing & Backend** | REST API using FastAPI, version control via Git | [Repo]([#](https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git)) |
 | **Data Analysis / Titanic** | Feature engineering, logistic regression, random forest (~85% accuracy) | [Repo]([#](https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git)) |
 | **Object Detection (YOLOv5)** | Real-time object detection with YOLOv5 + OpenCV | [Repo]([#](https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git)) |
+
 
 ---
 
