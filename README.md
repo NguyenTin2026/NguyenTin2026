@@ -194,7 +194,7 @@
 
 ### 🚀 Portfolio Website with AI Chatbox (MCP + NLWeb)
 
-* **Jan 2025 – Present**
+* **Nov 2025 – Present**
 * Built and deployed a **responsive multi-page portfolio website** using **HTML, CSS, and JavaScript**
 * Integrated an **AI-powered interactive Chatbox** to help visitors explore my background and projects via natural language
 * Implemented **MCP (Model Context Protocol)** for structured context passing and controlled AI responses
