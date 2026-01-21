@@ -200,7 +200,7 @@
 * Implemented **MCP (Model Context Protocol)** for structured context passing and controlled AI responses
 * Applied **NLWeb protocol** to expose website content as machine-readable knowledge for dynamic retrieval and reasoning
 * Managed project data through **structured JSON schemas**, enabling easy updates and scalability
-* **GitHub:** [https://github.com/NguyenTin2026/NguyenTin2026](https://github.com/NguyenTin2026/NguyenTin2026)
+* **GitHub:** [https://github.com/NguyenTin2026/NguyenTin2026](https://nguyentin2026.github.io/Project-Portfolio-Chatbox/)
 
 
 ### 🔍 Face Recognition System  
