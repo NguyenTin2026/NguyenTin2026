@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Nguyen Tin Tin Do 🛡️        
-  
----        
+          
    
 ## 📞 Contact & Professional Links   
 
@@ -204,7 +203,6 @@
   width="100%" 
 />
 
----
 
 ## 💻 Projects
 
