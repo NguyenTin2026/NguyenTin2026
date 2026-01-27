@@ -129,20 +129,6 @@
 
 ---
 
-## 🖥 Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-</p>
-
----
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTin2026&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph"
-  width="100%" 
-/>
-
----
 
 ## 🎓 Education  
 **Drew University** — Madison, NJ  
@@ -204,6 +190,21 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+## 🖥 Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+</p>
+
+---
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTin2026&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph"
+  width="100%" 
+/>
+
+---
 
 ## 💻 Projects
 
