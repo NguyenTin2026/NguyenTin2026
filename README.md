@@ -129,6 +129,21 @@
 
 ---
 
+## 🖥 Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+</p>
+
+---
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTin2026&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph"
+  width="100%" 
+/>
+
+---
+
 ## 🎓 Education  
 **Drew University** — Madison, NJ  
 - B.S. Computer Science, Minor Data Science — GPA: **3.7 / 4.0**  
