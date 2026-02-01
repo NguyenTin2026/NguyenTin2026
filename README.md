@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nguyen Tin Tin Do 🛡️        
             
                       
-## 📞 Contact & Professional Links                                          
+## 📞 Contact & Professional Links                                             
 
 ### 🌐 Social Media    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-tin-tin-do)  
