@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nguyen Tin Tin Do 🛡️                                                                         
                                                                                                                          
                                                   
-## 📞 Contact & Professional Links                                                                                    
+## 📞 Contact & Professional Links                                                                                        
                                               
 ### 🌐 Social Media          
 
