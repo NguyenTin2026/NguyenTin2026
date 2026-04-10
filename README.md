@@ -5,7 +5,7 @@
                                                                                                                                                                                 
 ### 🌐 Social Media                                                                                                                                   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-tin-tin-do)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-tin-tin-do)          
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.threads.com/@tintindo.2k4?igshid=NTc4MTIwNjQ2YQ==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17pXo5exca/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tintindo.2k4/?igsh=Z2ZiZWxkeHNqdmxi&utm_source=qr)
