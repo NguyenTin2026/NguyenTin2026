@@ -71,7 +71,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)                                           
 [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)](https://wandb.ai/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/)
-[![Replicate](https://img.shields.io/badge/Replicate-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://replicate.com/)
+[![Replicate](https://img.shields.io/badge/Replicate-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://replicate.com/)          
 
 ### ☁️ Cloud & Deployment Platforms  
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
