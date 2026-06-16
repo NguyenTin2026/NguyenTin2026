@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tintindo.2k4/?igsh=Z2ZiZWxkeHNqdmxi&utm_source=qr)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tintindo2k4?_r=1&_t=ZS-91b6rnPSRyz)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)              
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logoColor=white)](https://zalo.me/)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logoColor=white)](https://zalo.me/)            
 [![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/)            
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)                                          
                        
