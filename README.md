@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->       
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=780&lines=%F0%9F%91%8B+Hello%2C+I'm+Nguyen+Tin+Tin+Do;LLM+Fine-Tuning+%7C+RAG+%7C+Computer+Vision;Undergraduate+Researcher+%40+Drew+University;Welcome+to+my+GitHub+Profile!">
 </p>
